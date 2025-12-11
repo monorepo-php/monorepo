@@ -3,6 +3,6 @@
   "description": "monorepo-builder phar",
   "license": "MIT",
   "bin": [
-    "monorepo-builder.phar"
+    "monorepo-builder"
   ]
 }
