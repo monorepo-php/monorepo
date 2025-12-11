@@ -1,0 +1,8 @@
+{
+  "name": "monorepo-php/monorepo",
+  "description": "monorepo-builder phar",
+  "license": "MIT",
+  "bin": [
+    "monorepo-builder.phar"
+  ]
+}
